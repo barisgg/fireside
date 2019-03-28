@@ -3,4 +3,7 @@ body {
     background-color: black;
 }
  
-p {font: helvetica, 40px;}
+p {
+  font-size: 60px;
+
+}
